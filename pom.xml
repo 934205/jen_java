@@ -49,6 +49,7 @@
     </dependencies>
 
     <build>
+        <finalName>jen_java</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
